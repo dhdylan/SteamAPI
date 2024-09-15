@@ -1,0 +1,1 @@
+I made this little application that will ping Steam's web API for my most recently played games in the past two weeks and report how much time iv'e spent playing each of them. This data is displayed in a Qt bar chart.
